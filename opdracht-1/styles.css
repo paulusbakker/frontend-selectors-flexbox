@@ -60,6 +60,12 @@ input[type=submit] {
 /* Geef het tekst-veld een blauwe rand wanneer hij in focus is */
 
 
+input:focus {
+    outline: none;
+    border-color: blue;
+    border-width: medium;
+}
+
 /* Target alle heading tags op de pagina en zet hun font-family op 'Noto Sans JP', sans-serif */
 
 
