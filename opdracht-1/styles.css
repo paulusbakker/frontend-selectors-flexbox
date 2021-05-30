@@ -68,4 +68,6 @@ input:focus {
 
 /* Target alle heading tags op de pagina en zet hun font-family op 'Noto Sans JP', sans-serif */
 
-
+h1, h3 {
+    font-family:"Noto Sans JP", sans-serif;
+}
