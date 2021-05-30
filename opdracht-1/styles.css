@@ -43,6 +43,13 @@ nav a:hover {
 
 /* 1.5 Maak een hover- en visited stijl voor alle links in 'main'. */
 
+main a:visited {
+    color: hsl(120, 100%, 25%);
+}
+
+main a:hover {
+    color: hsl(60, 100%, 50%);
+}
 
 /* Verander de achtergrond van de SignUp button. Tip: https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors  */
 
