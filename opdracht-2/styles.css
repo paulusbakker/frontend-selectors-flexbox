@@ -43,3 +43,11 @@ li {
     flex-direction: row;
     justify-content: space-between;
 }
+/*OPDRACHT 2.4*/
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
